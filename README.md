@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN full stack web developer</h3>
 
 <div align="center">
-  <img  src="https://user-images.githubusercontent.com/77038954/133616013-7488fc92-9b6d-4df9-b2a3-88ba9636d49e.png" alt="animatation" />
+  <img width="50%" src="https://user-images.githubusercontent.com/77038954/133616013-7488fc92-9b6d-4df9-b2a3-88ba9636d49e.png" alt="animatation" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawanpatidar21&label=Profile%20views&color=0e75b6&style=flat" alt="pawanpatidar21" /> </p>
 
