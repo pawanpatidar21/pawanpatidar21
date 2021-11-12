@@ -35,5 +35,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawanpatidar21&theme=dark" alt="pawanpatidar21" /></p>
 </div>
-<a href="https://github.com/pawanpatidar21/github-readme-activity-graph"><img alt="pawanpatidar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pawanpatidar21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/pawanpatidar21/github-readme-activity-graph"><img alt="pawanpatidar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=pawanpatidar21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
+
 
